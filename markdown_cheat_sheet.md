@@ -251,6 +251,13 @@ También puedes usar palabras para ajustarte más a tu estilo de escritura[^note
 Las tablas no son parte de la especificación básica de Markdown, pero son parte de GFM y Markdown Here las soporta. Son una forma fácil de agregar 
 tablas a tu correo electrónico, una tarea que de otro modo requeriría copiar y pegar desde otra aplicación.
 Los dos puntos se pueden usar para alinear columnas.
+```
+| Tablas      |	Son	                  | Geniales |
+|-------------|:---------------------:|:--------:|
+|la col 3 es	| alineada a la derecha	| $1600    |
+|la col 2 es	| centrada	            | $12      |
+|las rayas de | cebra	son geniales    | $1       |
+```
 
 | Tablas      |	Son	                  | Geniales |
 |-------------|:---------------------:|:--------:|
@@ -260,7 +267,12 @@ Los dos puntos se pueden usar para alinear columnas.
 
 Deben haber al menos 3 guiones separando cada celda del encabezado. Las tuberías exteriores (|) son opcionales, y no es necesario que la línea de 
 Markdown en bruto se alinee de manera ordenada. También puedes usar Markdown en línea.
-
+```
+Markdown | Menos | Bonito
+--- | --- | ---
+*Todavía* |	`se renderiza` | **muy bien**
+1 |	2 |	3
+```
 Markdown | Menos | Bonito
 --- | --- | ---
 *Todavía* |	`se renderiza` | **muy bien**
