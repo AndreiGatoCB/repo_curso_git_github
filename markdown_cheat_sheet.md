@@ -252,11 +252,11 @@ Las tablas no son parte de la especificación básica de Markdown, pero son part
 tablas a tu correo electrónico, una tarea que de otro modo requeriría copiar y pegar desde otra aplicación.
 Los dos puntos se pueden usar para alinear columnas.
 ```
-| Tablas      |	Son	                  | Geniales |
+| Tablas      |	Son	              | Geniales |
 |-------------|:---------------------:|:--------:|
-|la col 3 es	| alineada a la derecha	| $1600    |
-|la col 2 es	| centrada	            | $12      |
-|las rayas de | cebra	son geniales    | $1       |
+|la col 3 e	  | alineada a la derecha | $1600    |
+|la col 2 es  | centrada	           | $12      |
+|las rayas de | cebra	son geniales  | $1       |
 ```
 
 | Tablas      |	Son	                  | Geniales |
