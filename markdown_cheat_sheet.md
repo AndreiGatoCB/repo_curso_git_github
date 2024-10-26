@@ -93,17 +93,17 @@ En este ejemplo, los espacios al inicio y al final se muestran con puntos: ⋅)
 1. Primer elemento de lista ordenada
 2. Otro elemento
    
-⋅⋅* Sub-lista sin ordenar
+  * Sub-lista sin ordenar
 1. Los números reales no importan, solo que sea un número
    
-⋅⋅⋅1. Sub-lista ordenada
+  1. Sub-lista ordenada
 
 3. Y otro elemento
-⋅⋅⋅Puedes tener párrafos con sangría adecuada dentro de los elementos de la lista. Observa la línea en blanco arriba y los espacios iniciales (al menos uno, pero usaremos tres aquí para alinear el Markdown sin procesar).
+  Puedes tener párrafos con sangría adecuada dentro de los elementos de la lista. Observa la línea en blanco arriba y los espacios iniciales (al menos uno, pero usaremos tres aquí para alinear el Markdown sin procesar).
 
-⋅⋅⋅Para tener un salto de línea sin un párrafo, necesitarás usar dos espacios al final.⋅⋅
-⋅⋅⋅Nota que esta línea está separada, pero dentro del mismo párrafo.⋅⋅
-⋅⋅⋅(Esto es contrario al comportamiento típico de GFM, donde los espacios finales no son necesarios).
+  Para tener un salto de línea sin un párrafo, necesitarás usar dos espacios al final.⋅⋅
+  Nota que esta línea está separada, pero dentro del mismo párrafo.⋅⋅
+  (Esto es contrario al comportamiento típico de GFM, donde los espacios finales no son necesarios).
 
 * La lista sin ordenar puede usar asteriscos
 - O guiones
