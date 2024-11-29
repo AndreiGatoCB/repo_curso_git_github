@@ -1,0 +1,35 @@
+# Crear el archivo yml
+name: Run Test on Pull Request
+
+on:
+  pull_request:
+    branches:
+      - main
+      - backup
+
+jobs:
+  tests:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run tests
+        run: npm test
+
+      - name: Upload test results
+        if: always()
+        uses: actions/upload-artifact@v3
+        with:
+          name: test-resuls
+          path: test-results
+          
