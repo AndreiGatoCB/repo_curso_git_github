@@ -15,7 +15,7 @@ También puedes explorar más [herramientas para Markdown](https://github.com/mu
 - [Tablas](#tablas)
 - [Citas en Bloque](#citas-en-bloque)
 - [Línea Horizontal](#línea-horizontal)
-- [Salto de Línea](#salto-de-linea)
+- [Salto de Línea](#salto-de-línea)
 - [Videos de YouTube](#videos-de-youtube)
 
 # Encabezados
