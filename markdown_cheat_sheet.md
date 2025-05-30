@@ -6,7 +6,7 @@ También puedes explorar más [herramientas para Markdown](https://github.com/mu
 # Tabla de Contenidos
 
 - [Encabezados](#encabezados)
-- [Énfasis](#enfasis)
+- [Énfasis](#énfasis)
 - [Listas](#listas)
 - [Enlaces](#enlaces)
 - [Imágenes](#imagenes)
