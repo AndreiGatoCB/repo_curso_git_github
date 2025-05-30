@@ -94,9 +94,11 @@ En este ejemplo, los espacios al inicio y al final se muestran con puntos: ⋅)
 2. Otro elemento
    
     * Sub-lista sin ordenar
+    * Sub-lista sin ordenar2
 1. Los números reales no importan, solo que sea un número
    
     1. Sub-lista ordenada
+    2. Sub-lista ordenada2
 
 3. Y otro elemento
   Puedes tener párrafos con sangría adecuada dentro de los elementos de la lista. Observa la línea en blanco arriba y los espacios iniciales (al menos uno, pero usaremos tres aquí para alinear el Markdown sin procesar).
