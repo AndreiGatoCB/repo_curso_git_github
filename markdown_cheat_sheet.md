@@ -177,6 +177,10 @@ Estilo en línea:
 Estilo de referencia: 
 ![texto alternativo][logo]
 
+Estilo de referencia: 
+![texto alternativo][logo github]
+
+[logo github]: https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png "logo de github"
 [logo]: https://github.com/AndreiGatoCB/repo_curso_git_github/blob/main/Logo_blanco.png "Logo Title Text 2"
 
 # Resaltado de Código y Sintaxis
